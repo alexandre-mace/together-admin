@@ -4,16 +4,16 @@
     "main.js.map": "/together-admin/static/js/main.fd26e895.chunk.js.map",
     "runtime-main.js": "/together-admin/static/js/runtime-main.e02520ea.js",
     "runtime-main.js.map": "/together-admin/static/js/runtime-main.e02520ea.js.map",
-    "static/js/2.29039737.chunk.js": "/together-admin/static/js/2.29039737.chunk.js",
-    "static/js/2.29039737.chunk.js.map": "/together-admin/static/js/2.29039737.chunk.js.map",
+    "static/js/2.d064d30a.chunk.js": "/together-admin/static/js/2.d064d30a.chunk.js",
+    "static/js/2.d064d30a.chunk.js.map": "/together-admin/static/js/2.d064d30a.chunk.js.map",
     "index.html": "/together-admin/index.html",
-    "precache-manifest.391570e2645fb1309ef2e74507327b34.js": "/together-admin/precache-manifest.391570e2645fb1309ef2e74507327b34.js",
+    "precache-manifest.c9f8e199b927ad443c79ffdc1c2765e5.js": "/together-admin/precache-manifest.c9f8e199b927ad443c79ffdc1c2765e5.js",
     "service-worker.js": "/together-admin/service-worker.js",
-    "static/js/2.29039737.chunk.js.LICENSE": "/together-admin/static/js/2.29039737.chunk.js.LICENSE"
+    "static/js/2.d064d30a.chunk.js.LICENSE": "/together-admin/static/js/2.d064d30a.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e02520ea.js",
-    "static/js/2.29039737.chunk.js",
+    "static/js/2.d064d30a.chunk.js",
     "static/js/main.fd26e895.chunk.js"
   ]
 }
